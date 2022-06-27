@@ -1,0 +1,28 @@
+/* class */
+.tamaño{
+    font-size: 40px;
+    color: green;
+}
+
+/* selector de elemento de html */
+p{
+    color: rgb(255, 0, 0);
+}
+
+/* ID */
+#color{
+    color: blue;
+}
+
+/* apartir de aca esta el codigo de rodrigo */
+.amarillo{
+    color: yellow;
+}
+.azul{
+    color: blue;
+    font-size: 10px;
+}
+.verde{
+    color:green;
+    font-size: 50px;
+}
