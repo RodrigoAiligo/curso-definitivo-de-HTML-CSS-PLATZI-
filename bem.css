@@ -1,0 +1,26 @@
+.main-nav {
+    margin-top: 10px; /*da un espacio de 10px hacia arriba */
+    list-style: none; /*borra los puntos */
+    padding-left: 0;
+    background-color: #f30404;/*color de fondo */
+}
+.main-nav__item {
+    display: inline-block; /*pone los elementos horizontalmente */
+}
+.main-nav__item a {
+    color:white;
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none; /*elemina las rayas de los elementos a */
+}
+
+.main-nav__item a:hover {
+    color:blue;
+}
+.main-nav__item a:active{
+    color: yellow;
+}
+
+.main-nav__item a::after{
+    content: " | ";
+}

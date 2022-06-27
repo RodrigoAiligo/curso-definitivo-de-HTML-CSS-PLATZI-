@@ -1,0 +1,16 @@
+.borde{
+    border: 2rem;
+    width: 110px;
+    height: 110px;
+    background-color: red;
+}
+
+.rojo{
+    color: rgb(255, 0, 43);
+}
+.verde{
+    color: green;
+}
+.naranja{
+    color: rgba(255, 153, 0, 0.707); 
+}
